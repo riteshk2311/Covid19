@@ -5,16 +5,27 @@ Jupyter Notebook
 Python 3.7
 
 __cmd__
+
 ####################
 pip install seaborn 
+
+
 pip install matplotlib
+
+
 pip install numpy
+
+
 pip install pandas
+
+
 pip install scipy
+
+
 pip install plotly
 #####################
 
 
 MAINTAINER
-<h1>Ritesh Kumar</h1>
+<h3>Ritesh Kumar</h3>
 
