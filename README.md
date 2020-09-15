@@ -2,11 +2,15 @@
 Covid Analysis of 30/01/2020 to 29/03/2020
 
 Jupyter Notebook
+
+
 Python 3.7
 
 __cmd__
 
 ####################
+
+
 pip install seaborn 
 
 
@@ -23,9 +27,13 @@ pip install scipy
 
 
 pip install plotly
+
+
 #####################
 
 
 MAINTAINER
+
+
 <h3>Ritesh Kumar</h3>
 
